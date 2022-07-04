@@ -116,3 +116,19 @@ thead {
 
     background-color: yellow;
 }
+
+.footer1 {
+
+    color: #939393;
+   
+}
+
+.footer2 {
+    width:300px;
+    height: 300px;
+    background-image: url(images/monitor.jpg);
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-left: 5px;
+
+}
