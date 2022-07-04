@@ -39,3 +39,13 @@ header {
     
     margin-left: 10px;
 }
+
+.sottotitolo {
+
+    width: 20%;
+    height: 30px;
+    font-size: 30px;
+    margin-bottom: 80px;
+    margin-top: -40px;
+    color: #939393;
+}
