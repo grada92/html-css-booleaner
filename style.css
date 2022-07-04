@@ -2,3 +2,18 @@ body {
 
     margin: 0;
 }
+
+header {
+    background-image: url(images/pattern.png);
+    background-color:rgb(67, 109, 194);
+    height: 125px; 
+    padding-top: 50px;
+  
+}
+
+.immagine-header {
+    
+    height: 80px;
+    padding-top: 40px;
+ }
+ 
