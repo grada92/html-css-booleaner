@@ -49,3 +49,8 @@ header {
     margin-top: -40px;
     color: #939393;
 }
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
