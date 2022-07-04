@@ -99,3 +99,10 @@ thead {
  
     background-color: rgba(62, 201, 201, 0.636);
 }
+
+.tabella {
+   
+    text-align: left;
+    border-collapse: collapse;
+    
+}
